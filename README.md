@@ -1,86 +1,154 @@
-🌟 ¡Hola! Soy Nicolás Del Fabro
-🚀 Frontend Developer | Full Stack Developer en formación
-<div align="center">
+<h1 align="center">Hola, soy Nicolás<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-✨ Apasionado por crear experiencias digitales útiles, accesibles y enfocadas en las personas. ✨
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFD700&size=25&center=true&vCenter=true&width=600&height=100&lines=Frontend+Developer;Full+Stack+Developer;Web+Development;JavaScript;TypeScript;Next.js">
+  </a>
+</p>
 
-</div>
-🎯 Sobre mí
+<br>
 
-Soy desarrollador web orientado al frontend y graduado del bootcamp Full Stack Web Developer de Henry. Busco mi primer oportunidad laboral en IT, donde pueda aplicar mis conocimientos, seguir aprendiendo y aportar soluciones reales a proyectos que mejoren la vida de los usuarios.
+## 🚀 Sobre mí
 
-Me motivan los desafíos, la creación de herramientas prácticas y la posibilidad de trabajar en equipo para construir productos que generen valor.
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlodmUyN3J5bWZ2Z2J0c3V4dGQ0eGx6a2l4eGJldjBqZ2V6bGZ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
 
-🛠️ Tecnologías que utilizo en Frontend: JavaScript, TypeScript, Next.js, React, Vite ,Tailwind CSS, Vercel
+<br><br>
 
+- 🎓 Estudiante graduado del bootcamp **Full Stack Developer – Henry**.  
+- 💻 Enfocado en el desarrollo **Frontend** con tecnologías modernas del ecosistema JavaScript.  
+- 🚀 Me motiva crear herramientas que faciliten tareas cotidianas y conecten a las personas.  
+- 🧠 Pensamiento lógico y trabajo en equipo como base para resolver problemas complejos.  
+- 🌱 Actualmente en búsqueda de mi **primer empleo IT**, aportando compromiso, aprendizaje y crecimiento.  
+- 🤝 Abierto a oportunidades y colaboración — aquí puedes ver **mi CV** (próximo link).  
 
-⚙️ Tecnologías que utilizo en Backend: Node.js, Express, JavaScript, TypeScript
+<br>
 
+---
 
-🗄️ Tecnologías que utilizo en  Bases de Datos: PostgreSQL, MongoDB
+## 🌐 Conéctate conmigo
+<p align="center">
+	<a href="mailto:nicolasdelfabro123@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+	<a href="https://github.com/NicolasDelFabro">
+    <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+	<a href="https://www.linkedin.com/in/NicolasDelFabro">
+    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
+---
 
-🧰 Otras herramientas: Git • GitHub • Slack
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"> Mis habilidades
 
+### ⚙️ Back-end Developer
+<p align="center"> 
+  &emsp; 
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  &emsp;
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white">
+  &emsp; 
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white">
+  &emsp;
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white">
+</p>
 
+### 🎨 Frontend
+<p align="center"> 
+  &emsp; 
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+  &emsp;
+  <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  &emsp;
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=black">
+  &emsp;
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white">
+  &emsp;
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white">
+</p>
 
-🚧 Proyectos Destacados:
+### 🗄️ Bases de Datos
+<p align="center">
+  &emsp;
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white">
+  &emsp;
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white">
+</p>
 
-🛒 Qiwi – Frontend Developer
+### 🔧 Desarrollo
+<p align="center">
+  &emsp;
+  <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
+  &emsp;
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
+  &emsp;
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=plastic&logo=vite&logoColor=FFD62E">
+  &emsp;
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
+</p>
 
-📅 02/2025 – 08/2025 | Proyecto académico
-📝 E-commerce orientado a una experiencia simple, clara y rápida para el usuario.
+### 🐧 Sistema Operativo
+<p align="center">
+  &emsp;
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
+  &emsp;
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white">
+</p>
 
-Implementación de registro e inicio de sesión.
+---
 
-Desarrollo de la visualización de productos y flujo completo del carrito de compras.
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+  </a>
+</p>
 
-Integración del proceso de compra, optimizando navegación y usabilidad.
+---
 
-🧩 Stack: Next.js | TypeScript | Tailwind CSS
-💽 Repo: https://github.com/NicolasDelFabro/Qiwi.git
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> Github Stats
 
+<details>
+<summary><h3>🔥 Streak Stats</h3></summary>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasDelFabro&theme=tokyonight_duo" />
+</p>
 
-🏋️‍♂️ TrainX – Frontend Developer
+</details>
 
-📅 10/2025 – 11/2025 | Proyecto final de Henry
-📝 Plataforma integral para la gestión de turnos y administración de un gimnasio.
+<details>
+<summary><h3>💻 GitHub Profile Stats</h3></summary>
 
-Autenticación local + terceros (Google).
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NicolasDelFabro&show_icons=true&theme=tokyonight&count_private=true" height="230px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasDelFabro&theme=tokyonight&layout=compact" height="230px"/>
+</p>
 
-Registro, login y manejo de sesiones.
+</details>
 
-Reservas de clases, compra de planes, chatbot y acceso a entrenadores.
+<details>
+<summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
-Mapa interactivo integrado.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasDelFabro&theme=github" />
+</p>
 
-Panel administrativo con métricas de ingresos, usuarios, clases y actividades.
+</details>
 
-🧩 Stack: TypeScript | Next.js | Tailwind CSS
-🔗 Deploy: https://trainx-front.vercel.app/
+<details>
+<summary><h3>🏆 GitHub Trophies</h3></summary>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NicolasDelFabro&theme=tokyonight&column=4" />
+</p>
 
+</details>
 
-🤝 Habilidades personales
+---
 
-Trabajo en equipo con comunicación clara.
+## 🐍 A Snake Eating My Contributions Graph
 
-Pensamiento lógico para dividir problemas complejos en partes simples.
-
-Capacidad para aprender rápido y adaptarme a nuevos desafíos.
-
-
-
-🌱 Lo que busco
-
-Me entusiasma integrarme a un equipo donde pueda aprender de desarrolladores con más experiencia, aportar soluciones reales y participar en proyectos que requieran colaboración, comunicación y mejora continua.
-
-
-📫 Contactame:
-
-📍 Argentina, Pergamino
-📧 nicolasdelfabro123@gmail.com
-
-🔗 LinkedIn: Nicolás Del Fabro
-🔗 GitHub: NicolasDelFabro
+<p align="center">
+	<img src="https://github.com/NicolasDelFabro/NicolasDelFabro/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
