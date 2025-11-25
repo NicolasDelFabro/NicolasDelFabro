@@ -33,7 +33,7 @@
 	<a href="https://github.com/NicolasDelFabro">
     <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-	<a href="https://www.linkedin.com/in/NicolasDelFabro">
+	<a href="www.linkedin.com/in/nicolás-del-fabro-4838b0299">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -87,3 +87,11 @@
   &emsp;
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
 </p>
+
+<br><br>
+        Contactos:
+
+    Email: nicolasdelfabro123@gmail.com
+    gitHub: NicolasDelFabro
+    Linkedin: Nicolás Del Fabro
+<br>
