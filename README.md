@@ -11,32 +11,21 @@ Soy desarrollador web orientado al frontend y graduado del bootcamp Full Stack W
 
 Me motivan los desafíos, la creación de herramientas prácticas y la posibilidad de trabajar en equipo para construir productos que generen valor.
 
-🛠️ Tecnologías que utilizo
-🎨 Frontend
+🛠️ Tecnologías que utilizo en Frontend: JavaScript, TypeScript, Next.js, React, Vite ,Tailwind CSS, Vercel
 
-JavaScript, TypeScript
 
-Next.js, React, Vite
+⚙️ Tecnologías que utilizo en Backend: Node.js, Express, JavaScript, TypeScript
 
-Tailwind CSS
 
-Vercel
+🗄️ Tecnologías que utilizo en  Bases de Datos: PostgreSQL, MongoDB
 
-⚙️ Backend
 
-Node.js, Express
+🧰 Otras herramientas: Git • GitHub • Slack
 
-JavaScript, TypeScript
 
-🗄️ Bases de Datos
 
-PostgreSQL, MongoDB
+🚧 Proyectos Destacados:
 
-🧰 Otras herramientas
-
-Git • GitHub • Slack
-
-🚧 Proyectos Destacados
 🛒 Qiwi – Frontend Developer
 
 📅 02/2025 – 08/2025 | Proyecto académico
@@ -49,6 +38,9 @@ Desarrollo de la visualización de productos y flujo completo del carrito de com
 Integración del proceso de compra, optimizando navegación y usabilidad.
 
 🧩 Stack: Next.js | TypeScript | Tailwind CSS
+💽 Repo: https://github.com/NicolasDelFabro/Qiwi.git
+
+
 
 🏋️‍♂️ TrainX – Frontend Developer
 
@@ -68,6 +60,8 @@ Panel administrativo con métricas de ingresos, usuarios, clases y actividades.
 🧩 Stack: TypeScript | Next.js | Tailwind CSS
 🔗 Deploy: https://trainx-front.vercel.app/
 
+
+
 🤝 Habilidades personales
 
 Trabajo en equipo con comunicación clara.
@@ -76,14 +70,17 @@ Pensamiento lógico para dividir problemas complejos en partes simples.
 
 Capacidad para aprender rápido y adaptarme a nuevos desafíos.
 
+
+
 🌱 Lo que busco
 
 Me entusiasma integrarme a un equipo donde pueda aprender de desarrolladores con más experiencia, aportar soluciones reales y participar en proyectos que requieran colaboración, comunicación y mejora continua.
 
-📫 Contactame
+
+📫 Contactame:
 
 📍 Argentina, Pergamino
 📧 nicolasdelfabro123@gmail.com
 
-🔗 LinkedIn: (agregar cuando lo tengas)
-🔗 GitHub: github.com/NicolasDelFabro
+🔗 LinkedIn: Nicolás Del Fabro
+🔗 GitHub: NicolasDelFabro
